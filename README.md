@@ -1,7 +1,7 @@
 # covid_app
 
-Safe Circle Covid-19 Contact Tracking System is a mobile application designed to keep track of covid cases within your surroundings. It works by connecting phones together using BLE and Bluetooth. After connecting the mobile devices together, the app adds those devices to the database (Cloud Firestore) and keeps them saved for 14 days, during this time period if any of the users is tested positive for covid and confirmed it on the application, then all people who were in close contact with that patient will be notified that they have been in contact with a Covid-19 positive person, and they should either do a PCR/Antigen test.
-Additional features for this application are BMI calculator as well as a Diabetes Risk test that users can take. This system was developed using Flutter SDK and Firebase as a backe-end.
+Safe Circle Covid-19 Contact Tracking System is a mobile application designed to keep track of covid cases within your surroundings. It works by connecting phones together using BLE and Bluetooth. After connecting the mobile devices together, the app adds those devices to the database and keeps them saved for 14 days, during this time period if any of the users is tested positive for covid and confirmed it on the application, then all people who were in close contact with that patient will be notified that they have been in contact with a Covid-19 positive person, and they should either do a PCR/Antigen test. Additional features for this application are BMI calculator as well as a Diabetes Risk test that users can take.
+Additional features for this application are BMI calculator as well as a Diabetes Risk test that users can take. This system was developed using Flutter SDK and Firebase as a backend. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
